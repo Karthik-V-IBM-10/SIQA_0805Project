@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FLOW VERSION="1.0" CLEANUP="false">
+<FLOW VERSION="3.1" CLEANUP="true">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
@@ -457,7 +457,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">https://originawsdev1.dev-int-aws-us.webmethods.io/integration/restv2/development/fl52795396fdea5c78467c2d/restTest/jdbcdrt</value>
+  <value name="xml">http://originawsdev1.int.webmethods/integration/private/restv2/development/fl52795396fdea5c78467c2d/restTest/refdrt</value>
 </Values>
 </DATA>
 </MAPSET>
